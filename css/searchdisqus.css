@@ -10,9 +10,7 @@ section {
      left: 50%;
      margin-right: -50%;
      transform: translate(-50%, -50%) }
-H3 {
-   text-align: center }
-H5 {
+H1, H2, H3, H4, H5 {
    text-align: center }
 a {
    color: #000099 }
