@@ -1,7 +1,7 @@
 # helpydisqus.github.io
 
-https://helpydisqus.github.io/searchdisqus.html is a simple html page with a Google Custom Search Engine modified to yeild results only from pages located within the disqus.com url family
+<a href="https://helpydisqus.github.io/searchdisqus.html">Search Disqus</a> is a simple html page with a Google Custom Search Engine modified to yeild results only from pages located within the <a href="https://disqus.com/">disqus.com</a> url family
 
-You can learn more about Google's Custom Search at: https://developers.google.com/custom-search/
+You can <a href="https://developers.google.com/custom-search/">click here to learn more about Google's Custom Search</a>
 
-(search capabilities and results are provided by google. page creator does not accept ad revenue or collect information.)
+(search capabilities and results provided by google. page creator does not accept ad revenue or collect information.)
