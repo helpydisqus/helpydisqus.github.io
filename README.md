@@ -4,4 +4,4 @@
 
 You can <a href="https://developers.google.com/custom-search/">click here to learn more about Google's Custom Search</a>
 
-(search capabilities and results provided by google. page creator does not accept ad revenue or collect information.)
+(results provided by google. github page creator does not accept ad revenue or collect information.)
